@@ -1,0 +1,42 @@
+#baner
+{
+	height: 60px;
+	background-color: #45517D;	
+	color: white;
+	font-size:	120%;
+	text-align: right;
+}
+#lewy
+{
+	height: 500px;
+    width: 40%;
+	padding: 0px;
+	background-color: #61B2EC;	
+	text-align: left;
+	float: left;
+}
+#prawy
+{
+	height: 500px;
+    width: 60%;
+	padding: 0px;
+	background-color: #8EC9F2;	
+	text-align: left;
+	float: right;
+}
+#stopka
+{
+	width: 100%;
+	background-color: #45517D;	
+	color: white;
+	font-size:150%;
+	float: left;
+}
+a:link 
+{
+	color: orange;
+}
+a:visited
+{
+	color: green;
+}
